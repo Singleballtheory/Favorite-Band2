@@ -13,16 +13,18 @@ font-size: 40pt;
 .sidebar {
   background-color:#3e2276;
   line-height: 2;
-  color:darkgrey;
+  color:rgb(175, 212, 175);
   padding: 1%;
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-family: Optima, sans-serif;
   float:left;
   box-sizing: border-box;
-  border: 2px solid #fff;
+  border: 5px solid rgb(19, 5, 54);
+  border-radius: 20px;
   margin: 1%;
 }
 img.concert {
   width: 100%;
+  border-radius: 50px;
 }
 img.header {
 
@@ -33,4 +35,15 @@ img.header {
   padding: 0% 1%;
   margin: 1%;
   box-sizing: border-box;
+}
+
+.megabar {
+  float: left;
+  color: rgb(99, 209, 182);
+  font-size: 20px;
+  width: 15%;
+}
+
+.spacer {
+  padding: 200px 0px;
 }
