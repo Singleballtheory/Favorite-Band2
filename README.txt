@@ -1,40 +1,32 @@
-# _{Application Name}_
+# Tool Website
 
-#### _{Brief description of application}_
+#### A Website for Tool fans
 
-#### By _**{List of contributors}**_
+#### By Scott Hutley <scotthutley1@comcast.net> and Melissa Schatz-Miller <melissa.scmi@gmail.com>
 
 ## Technologies Used
 
-* _List all_
-* _the major technologies_
-* _you used in your project_
-* _here_
+* _HTML_
+* _CSS_
 
 ## Description
 
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
+_This site provides details to upcoming Tool concerts for their fake (but real to us) 2021 tour which culminates in a visit to you -- the reader's -- backyard. Hope you have lots of beer and bottled water!_
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
 * Clone this repository to an empty folder or to your desktop. Instructions for cloning can be found [here](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository).
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_
+* Navigate to the index.html file and open in your web browser.
 
 ## Known Bugs
 
-* _Any known issues_
-* _should go here_
+* Not enough concert dates. Or even the dates themselves as they are all imaginary at the moment. (Tool is not on tour.)
 
 ## License
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+[MIT](https://opensource.org/licenses/MIT)
 
 ## Contact Information
 
-_{Add your contact information here.}_
+_Scott Hutley <scotthutley1@comcast.net>_
+_Melissa Schatz-Miller <melissa.scmi@gmail.com>_
